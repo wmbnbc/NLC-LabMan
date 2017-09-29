@@ -1,0 +1,11 @@
+Z:\Sentry\Software\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+Z:\Sentry\Software\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+Z:\Sentry\Software\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+Z:\Sentry\Software\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+Z:\Sentry\Software\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+Z:\Sentry\Software\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+Z:\Sentry\Software\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+Z:\Sentry\Software\WindowsApplication1\WindowsApplication1\obj\Debug\NLCSentry.vbprojResolveAssemblyReference.cache
+Z:\Sentry\Software\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.formSentry.resources
+Z:\Sentry\Software\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+Z:\Sentry\Software\WindowsApplication1\WindowsApplication1\obj\Debug\NLCSentry.vbproj.GenerateResource.Cache
